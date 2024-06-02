@@ -1,0 +1,13 @@
+//  normal functions 
+
+// 1. Function Def
+function add(num1, num2) {
+    return num1 + num2;
+}
+
+function power(num1, num2) {
+    return Math.pow(num1,num2);
+}
+
+// 2. Function Call
+var result = add(6, 8);
